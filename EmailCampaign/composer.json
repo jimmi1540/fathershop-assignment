@@ -1,0 +1,11 @@
+{
+    "name": "jamshaidyounis/email-compaign",
+    "description": "Laravel email campaign package",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "EmailCampaign\\": "EmailCampaign/src"
+        }
+    },
+    "require": {}
+}
